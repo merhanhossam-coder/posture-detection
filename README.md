@@ -2,10 +2,6 @@
 
 An intelligent real-time posture monitoring system that uses **Computer Vision** to detect body alignment and provide **AI-driven feedback** to improve ergonomics and prevent long-term health issues.
 
-![Project Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
-![MediaPipe](https://img.shields.io/badge/Tools-MediaPipe-teal)
-
 ## 🌟 Key Features
 
 - **Real-time Detection:** High-speed pose tracking using MediaPipe.
@@ -30,3 +26,5 @@ An intelligent real-time posture monitoring system that uses **Computer Vision**
    ```bash
    git clone [https://github.com/merhanhossam-coder/posture-detection.git](https://github.com/merhanhossam-coder/posture-detection.git)
    cd posture-detection
+
+
